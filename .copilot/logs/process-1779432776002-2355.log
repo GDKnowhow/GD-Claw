@@ -1,0 +1,41 @@
+2026-05-22T06:52:56.324Z [INFO] Session indexing debug: SESSION_INDEXING=false, repository=undefined, savedIndexingLevel=undefined
+2026-05-22T06:52:56.379Z [INFO] Workspace initialized: 851bc913-17ff-4d78-93a5-92f03a494a8d (checkpoints: 0)
+2026-05-22T06:52:56.384Z [INFO] Session indexing debug: showSessionSyncPrompt=false
+2026-05-22T06:52:56.384Z [INFO] Starting Copilot CLI: 1.0.27
+2026-05-22T06:52:56.384Z [INFO] Node.js version: v24.11.1
+2026-05-22T06:52:57.044Z [ERROR] Starting remote MCP client for github-mcp-server with url: https://api.individual.githubcopilot.com/mcp/readonly
+2026-05-22T06:52:57.045Z [ERROR] Creating MCP client for github-mcp-server...
+2026-05-22T06:52:57.046Z [ERROR] Connecting MCP client for github-mcp-server...
+2026-05-22T06:52:57.476Z [ERROR] MCP client for github-mcp-server connected, took 431ms
+2026-05-22T06:52:57.477Z [ERROR] Started MCP client for remote server github-mcp-server
+2026-05-22T06:52:57.477Z [ERROR] GitHub MCP server configured after authentication
+2026-05-22T06:52:57.670Z [WARNING] Model 'gpt-5.4-mini' from config file is not available. Falling back to default.
+2026-05-22T06:52:57.670Z [INFO] Using default model: gpt-5-mini
+2026-05-22T06:52:58.509Z [INFO] Memory enablement check: disabled
+2026-05-22T06:52:58.509Z [INFO] Memory is not enabled; skipping memory tools.
+2026-05-22T06:52:58.529Z [INFO] Memory enablement check: disabled
+2026-05-22T06:52:58.529Z [INFO] Memory is not enabled; skipping memory tools.
+2026-05-22T06:52:58.918Z [INFO] Memory enablement check: disabled
+2026-05-22T06:52:58.918Z [INFO] Memory is not enabled; skipping memory tools.
+2026-05-22T06:52:58.920Z [INFO]  
+2026-05-22T06:52:58.920Z [INFO] --- Start of group: configured settings: ---
+2026-05-22T06:52:58.920Z [INFO] --- End of group ---
+2026-05-22T06:52:59.302Z [ERROR] Request to Memory API at https://api.individual.githubcopilot.com/agents/swe/internal/memory/v0/GDKnowhow/GD-Claw/prompt failed with status 404 (request ID: 5C11:1D8873:54029E:5B3DB8:6A0FFD4A), body: Resource not found
+
+2026-05-22T06:52:59.303Z [ERROR] Failed to fetch memory prompt: HTTP 404: Resource not found
+ (url=https://api.individual.githubcopilot.com/agents/swe/internal/memory/v0/GDKnowhow/GD-Claw/prompt, integrationId=copilot-developer-cli)
+2026-05-22T06:52:59.307Z [INFO]  
+2026-05-22T06:52:59.307Z [INFO] --- Start of group: configured settings: ---
+2026-05-22T06:52:59.307Z [INFO] --- End of group ---
+2026-05-22T06:52:59.311Z [INFO] --- Start of group: Completion request configuration:  ---
+2026-05-22T06:52:59.311Z [INFO] --- End of group ---
+2026-05-22T06:53:00.117Z [INFO] CompactionProcessor: Utilization 15.3% (19585/128000 tokens) below threshold 80%
+2026-05-22T06:53:00.204Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-05-22T06:53:15.933Z [INFO] --- End of group ---
+2026-05-22T06:53:15.937Z [INFO] fetch_copilot_cli_documentation called
+2026-05-22T06:53:16.005Z [INFO] CompactionProcessor: Utilization 18.2% (23312/128000 tokens) below threshold 80%
+2026-05-22T06:53:16.109Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-05-22T06:53:35.788Z [INFO] --- End of group ---
+2026-05-22T06:53:36.747Z [INFO] CompactionProcessor: Utilization 18.6% (23770/128000 tokens) below threshold 80%
+2026-05-22T06:53:36.847Z [INFO] --- Start of group: Sending request to the AI model ---
+2026-05-22T06:53:39.047Z [INFO] --- End of group ---
