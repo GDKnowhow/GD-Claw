@@ -1,0 +1,12 @@
+id: bb6a787a-8463-4113-b8f1-a686ef2afc5f
+cwd: /home/runner/work/GD-Claw/GD-Claw
+git_root: /home/runner/work/GD-Claw/GD-Claw
+repository: GDKnowhow/GD-Claw
+host_type: github
+branch: issue-2
+summary_count: 0
+created_at: 2026-05-22T09:37:33.408Z
+updated_at: 2026-05-22T09:37:38.126Z
+summary: |-
+  請將最終結果寫入 artifacts/4517504963/result.md 。我的提示詞為: 我想用 chatgpt 生圖5張圖，但不想一句句丟，你能幫我自動處理，丟一句，收到圖再丟下一個？
+  告訴我能或不能，或給我其它方法
