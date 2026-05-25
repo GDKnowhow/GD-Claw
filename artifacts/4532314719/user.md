@@ -1,0 +1,2 @@
+進入這邊，然後截圖給我？
+https://access.line.me/oauth2/v2.1/login?returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fresponse_type%3Dcode%26client_id%3D1654050646%26redirect_uri%3Dhttps%253A%252F%252Forder.nidin.shop%252Fvendor%252FcallBack%252Fauth.html%26state%3D%255B%2522LINEtkylted%2522%252C%2522%252F%2522%255D%26scope%3Dprofile%2520openid%2520email&loginChannelId=1654050646&loginState=2zhiL5vUHmYs0IpEH3a6ua#/qr
